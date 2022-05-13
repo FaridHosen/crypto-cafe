@@ -9,32 +9,22 @@ const About = () => {
             Basic Questions
           </h1>
           <p class='mt-10 mb-3 font-semibold text-gray-900'>
-            What is accessibility?
+            What Is Cryptocurrency?
           </p>
           <p class='text-gray-600'>
-            This article starts off the module with a good look at what
-            accessibility is — this includes what groups of people we need to
-            consider and why, what tools different people use to interact with
-            the web, and how we can make accessibility part of our web
-            development workflow.
+            A cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. A defining feature of cryptocurrencies is that they are generally not issued by any central authority, rendering them theoretically immune to government interference or manipulation.
           </p>
           <p class='mt-10 mb-3 font-semibold text-gray-900'>
-            HTML: A good basis for accessibility?
+            What is cryptocurrency and how does it work?
           </p>
           <p class='text-gray-600'>
-            A great deal of web content can be made accessible just by making
-            sure the correct HTML elements are always used for the correct
-            purpose.
+            Cryptocurrency, sometimes called crypto-currency or crypto, is any form of currency that exists digitally or virtually and uses cryptography to secure transactions. Cryptocurrencies don't have a central issuing or regulating authority, instead using a decentralized system to record transactions and issue new units.
           </p>
           <p class='mt-10 mb-3 font-semibold text-gray-900'>
-            CSS and JavaScript accessibility best practices?
+            Is crypto real money?
           </p>
           <p class='text-gray-600'>
-            CSS and JavaScript, when used properly, also have the potential to
-            allow for accessible web experiences, but if misused they can
-            significantly harm accessibility. This article outlines some CSS and
-            JavaScript best practices that should be considered to ensure that
-            even complex content is as accessible as possible.
+            Cryptocurrencies are digital assets people use as investments and for online purchases. You exchange real currency, like dollars, to buy “coins” or “tokens” of a certain kind of cryptocurrency. Craft a harder-working money plan with a trusted financial pro.
           </p>
         </div>
         <div>
@@ -42,32 +32,22 @@ const About = () => {
             Advanced Questions
           </h1>
           <p class='mt-10 mb-3 font-semibold text-gray-900'>
-            WAI-ARIA basics, WAI-ARIA basics, WAI-ARIA basics, WAI-ARIA basics?
+            Is it wise to invest in cryptocurrency?
           </p>
           <p class='text-gray-600'>
-            Following on from the previous article, sometimes making complex UI
-            controls that involve unsemantic HTML and dynamic JavaScript-updated
-            content can be difficult. WAI-ARIA is a technology that can help
-            with such problems by adding in further semantics that browsers and
-            assistive technologies can recognize and use to let users know what
-            is going on. Here we'll show how to use it at a basic level to
-            improve accessibility.
+            Cryptocurrency may be a good investment if you are willing to accept it is a high risk gamble which could pay off – but also that there is a strong chance you could lose all of your money. It is important before investing in bitcoin or other cryptocurrencies that you go in with your eyes open.
           </p>
           <p class='mt-10 mb-3 font-semibold text-gray-900'>
-            Accessible multimedia?
+            Is crypto currency safe?
           </p>
           <p class='text-gray-600'>
-            Another category of content that can create accessibility problems
-            is multimedia — video, audio, and image content need to be given
-            proper textual alternatives, so they can be understood by assistive
-            technologies and their users. This article shows how.
+            Is Crypto Safe? The blockchain technology backing cryptocurrency is inherently secure, thanks to the decentralized — and public — nature of distributed ledger technology and the encryption process every transaction undergoes.
           </p>
           <p class='mt-10 mb-3 font-semibold text-gray-900'>
-            Mobile accessibility?
+            Can you convert Bitcoin to cash?
           </p>
           <p class='text-gray-600'>
-            With web access on mobile devices being so popular, and popular
-            platforms such as iOS and Android.
+            There are several ways to convert bitcoin to cash and ultimately move it to a bank account: Sell bitcoin on a cryptocurrency exchange, such as Coinbase or Kraken. This is the easiest method if you want to sell bitcoin and withdraw the resulting cash directly to a bank account.
           </p>
         </div>
       </div>
